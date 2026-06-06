@@ -106,23 +106,23 @@ Resumes were ranked according to their match scores, with higher scores indicati
 
 ### Resume Category Distribution
 
-![Resume Categories](images/resume_categories.png)
+![Resume Categories](resume_categories.png)
 
 ### Resume Length Distribution
 
-![Resume Length](images/resume_length_distribution.png)
+![Resume Length](resume_length_distribution.png)
 
 ### Top Skills in Job Descriptions
 
-![Top Skills](images/top_job_skills.png)
+![Top Skills](top_job_skills.png)
 
 ### Skill Count Distribution
 
-![Skill Count](images/skill_count_distribution.png)
+![Skill Count](skill_count_distribution.png)
 
 ### Average Match Score by Resume Category
 
-![Match Score](images/match_score_by_category.png)
+![Match Score](match_score_by_category.png)
 
 ## Key Findings
 
