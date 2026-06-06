@@ -95,14 +95,34 @@ Skills were extracted from resume text using a predefined skill list generated f
 
 Match Score was calculated using:
 
-Match Score =
-
-(Number of Matching Skills / Number of Required Job Skills) × 100
+Match Score =(Number of Matching Skills / Number of Required Job Skills) × 100
 
 ### Step 3: Candidate Ranking
 
 Resumes were ranked according to their match scores, with higher scores indicating better alignment with job requirements.
 
+
+## Sample Visualizations
+
+### Resume Category Distribution
+
+![Resume Categories](images/resume_categories.png)
+
+### Resume Length Distribution
+
+![Resume Length](images/resume_length_distribution.png)
+
+### Top Skills in Job Descriptions
+
+![Top Skills](images/top_job_skills.png)
+
+### Skill Count Distribution
+
+![Skill Count](images/skill_count_distribution.png)
+
+### Average Match Score by Resume Category
+
+![Match Score](images/match_score_by_category.png)
 
 ## Key Findings
 
