@@ -114,7 +114,7 @@ Resumes were ranked according to their match scores, with higher scores indicati
 
 ### Top Skills in Job Descriptions
 
-![Top Skills](top_job_skills.png)
+![Top Skills](Top10_demanded_skills.png)
 
 ### Skill Count Distribution
 
@@ -122,7 +122,7 @@ Resumes were ranked according to their match scores, with higher scores indicati
 
 ### Average Match Score by Resume Category
 
-![Match Score](match_score_by_category.png)
+![Match Score](average_match_score_by_category.png)
 
 ## Key Findings
 
