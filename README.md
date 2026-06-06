@@ -23,6 +23,7 @@ The objective of this project is to:
 ## Datasets Used
 
 ### Resume Dataset
+Source: https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
 
 - 2484 resumes
 - Multiple professional domains
