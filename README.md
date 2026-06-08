@@ -1,4 +1,4 @@
-# AI-Powered Resume Screening & Job Matching System
+# Resume Screening & Job Matching System using Python and NLP
 
 ## Project Overview
 
