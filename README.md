@@ -169,7 +169,5 @@ AI-Powered-Resume-Screening-System/
 
 **Iha Pradhan**
 
-B.Tech in Artificial Intelligence & Machine Learning 
-Symbiosis Institute of Technology,Pune
-Batch 2025-29
+B.Tech in Artificial Intelligence & Machine Learning - Symbiosis Institute of Technology,Pune - Batch 2025-29
 
